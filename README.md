@@ -1,2 +1,2 @@
 # PDF Uploader and viewer
-## Upload pdf and display it on a page
+## Upload a pdf and display it on a page
